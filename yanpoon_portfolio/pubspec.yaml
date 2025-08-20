@@ -65,6 +65,9 @@ flutter:
     - assets/images/yan_project_portfolio.png
     - assets/images/hktaxi_driver_appicon.png
     - assets/images/hktaxi_rider_appicon.png
+    - assets/images/sa_app.png
+    - assets/images/sp_app.png
+    - assets/images/yan_portfolio_flutter_app.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
