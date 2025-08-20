@@ -175,24 +175,6 @@ class _ProfileScreenState extends State<ProfileScreen>{
             Text(
               'I have been learning programming since I was studied in High Diploma and BSc Degree. I have more than 10 years working experience in mobile application development. At the same time, I have also learnt the business flow and cycle.',
               style: Theme.of(context).textTheme.titleLarge,
-            ),
-            SizedBox(height: 10.0),
-            Row(
-              children: [
-                Text(
-                  'For more Project Portfolio -> ',
-                  style: TextStyle(
-                      fontSize: Theme.of(context).textTheme.titleLarge?.fontSize,
-                      fontWeight: FontWeight.bold
-                  ),
-                ),
-              ],
-            ),
-            const SizedBox(height: 5.0),
-            const Row(
-              children: [
-                Image(image: AssetImage('assets/images/yan_project_portfolio.png'), width: 150)
-              ],
             )
           ],
         ),
